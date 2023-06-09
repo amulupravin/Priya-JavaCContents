@@ -39,3 +39,4 @@ public class BiPredicateDemo {
 	        System.out.println(biPredicate2.test(3, "2")); 
 	    } 
 	} 
+

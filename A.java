@@ -41,3 +41,4 @@ class TestScope {
         c.accessA();
 	}
 }
+
